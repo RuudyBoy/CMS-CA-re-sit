@@ -20,7 +20,7 @@ async function getData() {
             } 
     
             container.innerHTML += ` 
-            <div class="post"> 
+            <div class="dessert_data"> 
             <h2>${data[i].title.rendered}</h2>
             <p> ${data[i].content.rendered} </p> 
            </div>`;
