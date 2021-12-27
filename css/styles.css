@@ -3,3 +3,19 @@
     max-width: 1000px;
     margin: 0px auto;
 }
+
+.dessert_data {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: wheat;
+}
+
+body {
+    background: wheat;
+}
